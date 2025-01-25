@@ -6,10 +6,9 @@
 }
 
 body {
-  font-family: Arial, sans-serif;
-  background-color: #f4f4f4;
-  color: #333;
-}
+ font-family: cursive;
+ background-color: red;
+ color: rgb(214, 122, 127);
 
 .container {
   width: 80%;
